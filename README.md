@@ -1,3 +1,4 @@
+*[MUHAMMAD AIZWAN BIN ODZIR]*
 # m68k assembly highlighting for Atom
 
 Syntax highlighting for the Motorola 680x0 assembly language in Atom.
